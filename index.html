@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>creative technology3</title>
+    <script src="p5.min.js"></script>
+  <script src="ml5.min.js"></script>
 </head>
 <body>
     <h1> Hello！This is Zhiyan Wang </h1>
@@ -17,39 +19,14 @@
     <iframe width="900" height="506"
 src="https://www.youtube.com/embed/NWGl0fFGD9E" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
 </iframe>
-    <div w3-include-html="P5JS.html"></div>
-    <script>
-function includeHTML() {
-  var z, i, elmnt, file, xhttp;
-  /* Loop through a collection of all HTML elements: */
-  z = document.getElementsByTagName("*");
-  for (i = 0; i < z.length; i++) {
-    elmnt = z[i];
-    /*search for elements with a certain atrribute:*/
-    file = elmnt.getAttribute("w3-include-html");
-    if (file) {
-      /* Make an HTTP request using the attribute value as the file name: */
-      xhttp = new XMLHttpRequest();
-      xhttp.onreadystatechange = function() {
-        if (this.readyState == 4) {
-          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
-          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
-          /* Remove the attribute, and call this function once more: */
-          elmnt.removeAttribute("w3-include-html");
-          includeHTML();
-        }
-      } 
-      xhttp.open("GET", file, true);
-      xhttp.send();
-      /* Exit the function: */
-      return;
-    }
-  }
-}
-</script>
-    <script>
-includeHTML();
-</script>
+ 
+
+  <h1>Homework for Zhiyan</h1>
+  <script src="sketch.js"></script>
+
+
+
+</body></html>
     <br>
     <br>
     <br>
