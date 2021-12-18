@@ -1,0 +1,1659 @@
+{
+    "lens_id": "",
+    "document_id": "qKPOXgvfnbXlPyFaH4by",
+    "original_document_id": "R2mLfI3SLSsV2AWgQatD",
+    "version": "28",
+    "lastChanged": "1639819652500",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Graph Empty"
+                    ],
+                    [
+                        "Graph Empty 2"
+                    ],
+                    [
+                        "Graph Empty 3"
+                    ],
+                    [
+                        "Sphere"
+                    ],
+                    [
+                        "cloudy-mountain"
+                    ],
+                    [
+                        "cloudy-mountain",
+                        "source",
+                        "cloudssssssssssssssss13",
+                        "Meshes"
+                    ],
+                    [
+                        "cloudy-mountain",
+                        "source",
+                        "cloudssssssssssssssss13",
+                        "Meshes",
+                        "Plane"
+                    ],
+                    [
+                        "cloudy-mountain",
+                        "source",
+                        "cloudssssssssssssssss13",
+                        "cloudssssssssssssssss13"
+                    ],
+                    [
+                        "cloudy-mountain",
+                        "source",
+                        "cloudssssssssssssssss4"
+                    ],
+                    [
+                        "cloudy-mountain",
+                        "textures"
+                    ],
+                    [
+                        "cloudy-mountain",
+                        "textures",
+                        "albedo"
+                    ],
+                    [
+                        "cloudy-mountain",
+                        "textures",
+                        "alpha5"
+                    ],
+                    [
+                        "cloudy-mountain",
+                        "textures",
+                        "internal_ground_ao_texture"
+                    ],
+                    [
+                        "cloudy-mountain",
+                        "textures",
+                        "normal"
+                    ],
+                    [
+                        "cloudy-mountain",
+                        "textures",
+                        "roughness@channels=G"
+                    ],
+                    [
+                        "images"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "HermosaUseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Sky.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1639129618089258:1004596"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1639115414984303:273211",
+                    "name": "Files\/File8",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1639115427354954:274808",
+                    "name": "Files\/File10.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1639128645616162:892965",
+                    "name": "Files\/File37.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1639128646146366:892972",
+                    "name": "Files\/File40.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1639128649321972:892979",
+                    "name": "Files\/File43.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1639128653938807:892986",
+                    "name": "Files\/File46.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1639128660496303:892993",
+                    "name": "Files\/File49.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1639128661030613:893000",
+                    "name": "Files\/File52.zip",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1639128677263313:893208",
+                    "name": "Files\/File53.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1639128677403200:893234",
+                    "name": "cloudssssssssssssssss13",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1639129451522891:983595",
+                    "name": "Files\/File59",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1639129584978909:1000293",
+                    "name": "Files\/File61.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1639129618089258:1004596",
+                    "name": "Files\/File64",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1639115450346335:277722",
+                "4": "1639128691656460:893645",
+                "5": "1639128691659335:893649",
+                "6": "1639128931029058:920736",
+                "7": "1639128931220550:920758",
+                "8": "1639129011567664:929446",
+                "9": "1639129011604834:929456"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.lsmat"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.mesh"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.mesh"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.jpeg"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.jpeg"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.jpeg"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.jpeg"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.jpeg"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.jpeg"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.jpeg"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.jpeg"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.jpeg"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.jpeg"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.jpeg"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.jpeg"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.pvr"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.png"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.png"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.zip"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.mesh"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.oprfb"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.obj"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.mesh"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.oprfb"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.pvr"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.lsmat"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.jpeg"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.jpeg"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.jpeg"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "8014",
+                        "v": "Graph Empty.lsmat"
+                    },
+                    {
+                        "k": "8015",
+                        "v": "Sphere.mesh"
+                    },
+                    {
+                        "k": "26218",
+                        "v": "cloudy-mountain"
+                    },
+                    {
+                        "k": "26219",
+                        "v": "cloudy-mountain\/textures"
+                    },
+                    {
+                        "k": "26220",
+                        "v": "cloudy-mountain\/textures\/alpha5.jpeg"
+                    },
+                    {
+                        "k": "26221",
+                        "v": "cloudy-mountain\/textures\/internal_ground_ao_texture.jpeg"
+                    },
+                    {
+                        "k": "26222",
+                        "v": "cloudy-mountain\/textures\/albedo.jpeg"
+                    },
+                    {
+                        "k": "26223",
+                        "v": "cloudy-mountain\/textures\/normal.jpeg"
+                    },
+                    {
+                        "k": "26224",
+                        "v": "cloudy-mountain\/textures\/roughness@channels=G.png"
+                    },
+                    {
+                        "k": "26225",
+                        "v": "cloudy-mountain\/source"
+                    },
+                    {
+                        "k": "26226",
+                        "v": "cloudy-mountain\/source\/cloudssssssssssssssss4.zip"
+                    },
+                    {
+                        "k": "26227",
+                        "v": "cloudy-mountain\/source\/cloudssssssssssssssss13.obj"
+                    },
+                    {
+                        "k": "26228",
+                        "v": "Graph Empty 2.lsmat"
+                    },
+                    {
+                        "k": "26229",
+                        "v": "images.jpeg"
+                    },
+                    {
+                        "k": "26230",
+                        "v": "Graph Empty 3.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "8014",
+                        "v": "82ed95e4ba46e013c63833dd65ec046f"
+                    },
+                    {
+                        "k": "8015",
+                        "v": "ffbce66d7c12d942b13208740e9d0059"
+                    },
+                    {
+                        "k": "26206",
+                        "v": "3e79f45f25e889f21d80d643dedcfaf8"
+                    },
+                    {
+                        "k": "26208",
+                        "v": "c48b20d2e921ee6a5ebf06c5138919d5"
+                    },
+                    {
+                        "k": "26210",
+                        "v": "5cb9fe315c115b86dc12211ca00667a5"
+                    },
+                    {
+                        "k": "26213",
+                        "v": "d1f64d3972d07a8df3f0562d82a70b74"
+                    },
+                    {
+                        "k": "26214",
+                        "v": "be469060679be735d31dc05c32d41a6d"
+                    },
+                    {
+                        "k": "26215",
+                        "v": "ecc6e4e256701cf3ad26144c46e56c9f"
+                    },
+                    {
+                        "k": "26217",
+                        "v": "5defdf066f35d14e48b8fe7457ea99a0"
+                    },
+                    {
+                        "k": "26220",
+                        "v": "b36f0af736eb54650f6dd0984f122d17"
+                    },
+                    {
+                        "k": "26221",
+                        "v": "c7658a83cb0686f02da92033a228a106"
+                    },
+                    {
+                        "k": "26222",
+                        "v": "0116a3e106efa8e35cf33b561bf1fb9a"
+                    },
+                    {
+                        "k": "26223",
+                        "v": "baf46866c69e1664752ce9c867f07f91"
+                    },
+                    {
+                        "k": "26224",
+                        "v": "b6fbd98b57ef14548070642e3807d1a9"
+                    },
+                    {
+                        "k": "26226",
+                        "v": "0443643814f3c45ad6dbe5de585e1bf8"
+                    },
+                    {
+                        "k": "26227",
+                        "v": "3d469ac4ca266829841bbf51aebc8142"
+                    },
+                    {
+                        "k": "26228",
+                        "v": "0994ee68f96328fda8f95822a04cc6a4"
+                    },
+                    {
+                        "k": "26229",
+                        "v": "9cf254e31ccc3b34ddc3b247d0e7fbe0"
+                    },
+                    {
+                        "k": "26230",
+                        "v": "ef90c547fe88811a6ae834ffc3c171e4"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-12-10T01:48:44",
+                        "name": "Public",
+                        "hash": "58eab8348059b3e198cfc31e362e9ed7",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-12-10T01:20:10",
+                                "name": "images.jpeg",
+                                "hash": "9cf254e31ccc3b34ddc3b247d0e7fbe0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-12-10T01:48:18",
+                                "name": "Graph Empty 3.lsmat",
+                                "hash": "a876e5e9119905a55bcaac805fb58d7d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-12-10T01:48:18",
+                                "name": "Graph Empty 2.lsmat",
+                                "hash": "91daa5616626bcf66114abbc7196c210",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-12-10T01:33:20",
+                                "name": "cloudy-mountain",
+                                "hash": "0a71db2b411c528b372c222b57095431",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-12-10T01:32:40",
+                                        "name": "textures",
+                                        "hash": "46e067f06942bc47fc8373f30b74b9ff",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-02T17:34:30",
+                                                "name": "alpha5.jpeg",
+                                                "hash": "b36f0af736eb54650f6dd0984f122d17",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-02T17:34:30",
+                                                "name": "internal_ground_ao_texture.jpeg",
+                                                "hash": "c7658a83cb0686f02da92033a228a106",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-02T17:34:30",
+                                                "name": "albedo.jpeg",
+                                                "hash": "0116a3e106efa8e35cf33b561bf1fb9a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-02T17:34:26",
+                                                "name": "normal.jpeg",
+                                                "hash": "baf46866c69e1664752ce9c867f07f91",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-02T17:34:30",
+                                                "name": "roughness@channels=G.png",
+                                                "hash": "b6fbd98b57ef14548070642e3807d1a9",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-10T01:30:45",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-12-10T01:33:20",
+                                        "name": "source",
+                                        "hash": "c24e48570791574c244313c8088dfad5",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-02T17:34:10",
+                                                "name": "cloudssssssssssssssss4.zip",
+                                                "hash": "0443643814f3c45ad6dbe5de585e1bf8",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-10T01:31:00",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-12-02T16:20:34",
+                                                "name": "cloudssssssssssssssss13.obj",
+                                                "hash": "3d469ac4ca266829841bbf51aebc8142",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-12-10T01:30:45",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-12-10T01:48:18",
+                                "name": "Graph Empty.lsmat",
+                                "hash": "69be2cc039110d72c9f43ffd32a8e583",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-11-01T21:31:49",
+                                "name": "Sphere.mesh",
+                                "hash": "ffbce66d7c12d942b13208740e9d0059",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-11-01T21:31:48",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-11-01T21:31:48",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sphere",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1639115427354954:274808",
+                        "fileId": "10",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8015",
+                        "source": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/meshes\/Sphere.mesh",
+                        "additional": {
+                            "info": {
+                                "vertexAttribs": [
+                                    {
+                                        "semantic": "position",
+                                        "format": "9",
+                                        "canBeDisabled": "false"
+                                    },
+                                    {
+                                        "semantic": "normal",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "tangent",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "color",
+                                        "format": "3",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "texture0",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    }
+                                ],
+                                "hasBlendShapes": "false",
+                                "hasSkinBones": "false"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Graph Empty",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1639115414984303:273211",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "8014",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "cloudy-mountain",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26218",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26219",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "alpha5",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "22",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1639128645616162:892965",
+                                        "fileId": "37",
+                                        "originalId": "38",
+                                        "publicId": "26220",
+                                        "source": "\/Users\/anniewang\/Downloads\/cloudy-mountain\/textures\/alpha5.jpeg",
+                                        "additional": {
+                                            "originHash": "b36f0af736eb54650f6dd0984f122d17"
+                                        }
+                                    },
+                                    {
+                                        "name": "internal_ground_ao_texture",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "23",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1639128646146366:892972",
+                                        "fileId": "40",
+                                        "originalId": "41",
+                                        "publicId": "26221",
+                                        "source": "\/Users\/anniewang\/Downloads\/cloudy-mountain\/textures\/internal_ground_ao_texture.jpeg",
+                                        "additional": {
+                                            "originHash": "c7658a83cb0686f02da92033a228a106"
+                                        }
+                                    },
+                                    {
+                                        "name": "albedo",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "24",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1639128649321972:892979",
+                                        "fileId": "43",
+                                        "originalId": "44",
+                                        "publicId": "26222",
+                                        "source": "\/Users\/anniewang\/Downloads\/cloudy-mountain\/textures\/albedo.jpeg",
+                                        "additional": {
+                                            "originHash": "0116a3e106efa8e35cf33b561bf1fb9a"
+                                        }
+                                    },
+                                    {
+                                        "name": "normal",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "25",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1639128653938807:892986",
+                                        "fileId": "46",
+                                        "originalId": "47",
+                                        "publicId": "26223",
+                                        "source": "\/Users\/anniewang\/Downloads\/cloudy-mountain\/textures\/normal.jpeg",
+                                        "additional": {
+                                            "originHash": "baf46866c69e1664752ce9c867f07f91"
+                                        }
+                                    },
+                                    {
+                                        "name": "roughness@channels=G",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "26",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1639128660496303:892993",
+                                        "fileId": "49",
+                                        "originalId": "50",
+                                        "publicId": "26224",
+                                        "source": "\/Users\/anniewang\/Downloads\/cloudy-mountain\/textures\/roughness@channels=G.png",
+                                        "additional": {
+                                            "originHash": "b6fbd98b57ef14548070642e3807d1a9"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "source",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26225",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "cloudssssssssssssssss4",
+                                        "type": "7",
+                                        "subtype": "0",
+                                        "resourceId": "27",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1639128661030613:893000",
+                                        "fileId": "52",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26226",
+                                        "source": "\/Users\/anniewang\/Downloads\/cloudy-mountain\/source\/cloudssssssssssssssss4.zip",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cloudssssssssssssssss13",
+                                        "type": "18",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "2",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "55",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26227",
+                                        "source": "\/Users\/anniewang\/Downloads\/cloudy-mountain\/source\/cloudssssssssssssssss13.obj",
+                                        "additional": {
+                                            "materialMapping": ""
+                                        },
+                                        "resources": [
+                                            {
+                                                "name": "Meshes",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Plane",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "28",
+                                                        "dependency": "1",
+                                                        "hidden": "false",
+                                                        "uid": "1639128677263313:893208",
+                                                        "fileId": "53",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/35\/jbcr3jdj7czdj485fk1l9qx80000gn\/T\/Lens Studio-keXHtO\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": {
+                                                            "info": {
+                                                                "vertexAttribs": [
+                                                                    {
+                                                                        "semantic": "position",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "false"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "normal",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "tangent",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "texture0",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    }
+                                                                ],
+                                                                "hasBlendShapes": "false",
+                                                                "hasSkinBones": "false"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "cloudssssssssssssssss13",
+                                                "type": "12",
+                                                "subtype": "-1",
+                                                "resourceId": "29",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1639128677403200:893234",
+                                                "fileId": "54",
+                                                "originalId": "57",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Graph Empty 2",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "30",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1639129451522891:983595",
+                        "fileId": "59",
+                        "originalId": "60",
+                        "publicId": "26228",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "images",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "31",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1639129584978909:1000293",
+                        "fileId": "61",
+                        "originalId": "62",
+                        "publicId": "26229",
+                        "source": "\/Users\/anniewang\/Desktop\/images.jpeg",
+                        "additional": {
+                            "originHash": "9cf254e31ccc3b34ddc3b247d0e7fbe0"
+                        }
+                    },
+                    {
+                        "name": "Graph Empty 3",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "32",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1639129618089258:1004596",
+                        "fileId": "64",
+                        "originalId": "65",
+                        "publicId": "26230",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1639129618089258:1004596",
+                        "path_list": [
+                            "Graph Empty 3"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1639128691656460:893645",
+                        "v": {
+                            "prefab": "1639128677403200:893234",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1639128677295800:893218",
+                                    "v": "1639128691656460:893645"
+                                },
+                                {
+                                    "k": "1639128677382210:893220",
+                                    "v": "1639128691659335:893649"
+                                },
+                                {
+                                    "k": "1639128677397727:893222",
+                                    "v": "1639128691660887:893651"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1639128931029058:920736",
+                        "v": {
+                            "prefab": "1639128677403200:893234",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1639128677295800:893218",
+                                    "v": "1639128931029058:920736"
+                                },
+                                {
+                                    "k": "1639128677382210:893220",
+                                    "v": "1639128931220550:920758"
+                                },
+                                {
+                                    "k": "1639128677397727:893222",
+                                    "v": "1639128931224656:920764"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1639129011567664:929446",
+                        "v": {
+                            "prefab": "1639128677403200:893234",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1639128677295800:893218",
+                                    "v": "1639129011567664:929446"
+                                },
+                                {
+                                    "k": "1639128677382210:893220",
+                                    "v": "1639129011604834:929456"
+                                },
+                                {
+                                    "k": "1639128677397727:893222",
+                                    "v": "1639129011606510:929458"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1639128677403200:893234",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1639128677295800:893218"
+                        },
+                        {
+                            "k": [
+                                "Plane.536_Plane.001"
+                            ],
+                            "v": "1639128677382210:893220"
+                        },
+                        {
+                            "k": [
+                                "Plane.536_Plane.001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1639128677397727:893222"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1639115427354954:274808",
+                    "v": {
+                        "infos": {
+                            "originalSize": "13151",
+                            "compressedSize": "13151",
+                            "originalRAM": "27388",
+                            "compressedRAM": "27388",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "3",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "11",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1639128645616162:892965",
+                    "v": {
+                        "infos": {
+                            "originalSize": "41494",
+                            "compressedSize": "41494",
+                            "originalRAM": "262144",
+                            "compressedRAM": "262144",
+                            "extension": "jpeg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "39",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1639128646146366:892972",
+                    "v": {
+                        "infos": {
+                            "originalSize": "21060",
+                            "compressedSize": "21060",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "jpeg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "42",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1639128649321972:892979",
+                    "v": {
+                        "infos": {
+                            "originalSize": "597509",
+                            "compressedSize": "597509",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "16777216",
+                            "extension": "jpeg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "45",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1639128653938807:892986",
+                    "v": {
+                        "infos": {
+                            "originalSize": "933007",
+                            "compressedSize": "933007",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "16777216",
+                            "extension": "jpeg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "48",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1639128660496303:892993",
+                    "v": {
+                        "infos": {
+                            "originalSize": "3181084",
+                            "compressedSize": "1256842",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "51",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "df5a6e58c3203bc4b80622335a9e182f",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "58"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1639128677263313:893208",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4264724",
+                            "compressedSize": "4264724",
+                            "originalRAM": "7598886",
+                            "compressedRAM": "7598886",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "56",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1639129584978909:1000293",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4004",
+                            "compressedSize": "4004",
+                            "originalRAM": "201300",
+                            "compressedRAM": "201300",
+                            "extension": "jpeg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "63",
+                        "compressed_files": ""
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.7.0"
+}
